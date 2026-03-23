@@ -11,7 +11,7 @@ Hands-on labs using Cisco Packet Tracer while studying for the CompTIA Network+ 
 ## Tools Used
 - Cisco Packet Tracer
 - Command Prompt / PowerShell
-- Wireshark (optional)
+- Wireshark
 
 ## Goal
 - Build practical networking skills
